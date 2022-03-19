@@ -1,3 +1,6 @@
+<!--Dylan Ashton n01442206 -->
 <resources>
-    <string name="app_name">DylanAssign3</string>
+    <string name="app_name" translatable="false">DylanAshtonN01442206</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
