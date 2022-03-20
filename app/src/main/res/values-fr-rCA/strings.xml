@@ -2,4 +2,8 @@
 <!--Dylan Ashton n01442206 -->
 <resources>
     <string name="app_name">DylanAshtonN01442206</string>
+    <string name="one">Un</string>
+    <string name="two">Deux</string>
+    <string name="three">Trois</string>
+    <string name="four">Quatre</string>
 </resources>

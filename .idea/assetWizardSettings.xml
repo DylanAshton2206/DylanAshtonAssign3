@@ -113,8 +113,8 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Users\dylin\Desktop\1.png" />
-                                                <entry key="scalingPercent" value="49" />
+                                                <entry key="imagePath" value="C:\Users\dylin\Desktop\smile.jpg" />
+                                                <entry key="scalingPercent" value="85" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -146,7 +146,7 @@
                                   </option>
                                   <option name="values">
                                     <map>
-                                      <entry key="outputName" value="one" />
+                                      <entry key="outputName" value="smile" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -315,11 +315,6 @@
                                 </PersistentState>
                               </value>
                             </entry>
-                          </map>
-                        </option>
-                        <option name="values">
-                          <map>
-                            <entry key="outputIconType" value="ACTIONBAR" />
                           </map>
                         </option>
                       </PersistentState>

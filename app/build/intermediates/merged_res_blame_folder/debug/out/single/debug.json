@@ -1,9 +1,5 @@
 [
     {
-        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\layout_dylan_main.xml.flat",
-        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\layout\\dylan_main.xml"
-    },
-    {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_1.xml.flat",
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\layout\\fragment_1.xml"
     },
@@ -16,16 +12,8 @@
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\drawable-mdpi\\one.png"
     },
     {
-        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_one.png.flat",
-        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\drawable-hdpi\\one.png"
-    },
-    {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_one.png.flat",
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\drawable-xxxhdpi\\one.png"
-    },
-    {
-        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_one.png.flat",
@@ -40,20 +28,12 @@
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\drawable-hdpi\\three.png"
     },
     {
-        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_3.xml.flat",
-        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\layout\\fragment_3.xml"
-    },
-    {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_two.png.flat",
-        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\drawable-xhdpi\\two.png"
-    },
-    {
-        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_smile_round.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-anydpi-v26\\smile_round.xml"
     },
     {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_four.png.flat",
@@ -68,24 +48,12 @@
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
-    },
-    {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
-    },
-    {
-        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_four.png.flat",
-        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\drawable-xhdpi\\four.png"
     },
     {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_four.png.flat",
@@ -96,52 +64,36 @@
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_2.xml.flat",
-        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\layout\\fragment_2.xml"
-    },
-    {
-        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_three.png.flat",
-        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\drawable-xxxhdpi\\three.png"
-    },
-    {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_two.png.flat",
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\drawable-hdpi\\two.png"
     },
     {
-        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_two.png.flat",
-        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\drawable-xxxhdpi\\two.png"
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_smile_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-hdpi\\smile_foreground.png"
     },
     {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_two.png.flat",
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\drawable-mdpi\\two.png"
     },
     {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_smile_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-hdpi\\smile_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_smile_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-mdpi\\smile_foreground.png"
+    },
+    {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_four.png.flat",
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\drawable-xxxhdpi\\four.png"
-    },
-    {
-        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_three.png.flat",
-        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\drawable-mdpi\\three.png"
-    },
-    {
-        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_two.png.flat",
-        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\drawable-xxhdpi\\two.png"
     },
     {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_three.png.flat",
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\drawable-xxhdpi\\three.png"
     },
     {
-        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_four.png.flat",
-        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\drawable-mdpi\\four.png"
-    },
-    {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_three.png.flat",
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\drawable-xhdpi\\three.png"
-    },
-    {
-        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_one.png.flat",
@@ -154,6 +106,126 @@
     {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\layout_dylan_main.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\layout\\dylan_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_one.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\drawable-hdpi\\one.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_smile.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-anydpi-v26\\smile.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_smile_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-xxxhdpi\\smile_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_smile_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-xhdpi\\smile_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_smile_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-xxhdpi\\smile_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_3.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\layout\\fragment_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_two.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\drawable-xhdpi\\two.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_four.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\drawable-xhdpi\\four.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_2.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\layout\\fragment_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_smile.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-hdpi\\smile.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_three.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\drawable-xxxhdpi\\three.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_two.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\drawable-xxxhdpi\\two.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_smile.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-xhdpi\\smile.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_smile_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-xxhdpi\\smile_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_smile_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-xhdpi\\smile_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_three.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\drawable-mdpi\\three.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_two.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\drawable-xxhdpi\\two.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_smile_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-xxxhdpi\\smile_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_smile.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-xxxhdpi\\smile.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_four.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\drawable-mdpi\\four.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_smile_round.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-mdpi\\smile_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable_smile_background.xml.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\drawable\\smile_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_smile.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-mdpi\\smile.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_smile.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-xxhdpi\\smile.png"
     },
     {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
