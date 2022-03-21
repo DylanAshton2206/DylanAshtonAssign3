@@ -5,14 +5,18 @@ import static dylan.ashton.n01442206.a3.R.id.DylanTab1;
 import static dylan.ashton.n01442206.a3.R.id.DylanTab2;
 import static dylan.ashton.n01442206.a3.R.id.DylanTab3;
 import static dylan.ashton.n01442206.a3.R.id.DylanTab4;
+import static dylan.ashton.n01442206.a3.R.id.save_non_transition_alpha;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.KeyEvent;
 import android.view.View;
+import android.widget.EditText;
+import android.widget.TextView;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
@@ -23,6 +27,8 @@ public class DylanActivity extends AppCompatActivity {
     private Fragment2 fragment2;
     private Fragment3 fragment3;
     private Fragment4 fragment4;
+    private EditText et;
+    public TextView Edit;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -34,6 +40,8 @@ public class DylanActivity extends AppCompatActivity {
         fragment2 = new Fragment2();
         fragment3 = new Fragment3();
         fragment4 = new Fragment4();
+        et=findViewById(R.id.DylanEdit);
+
 
         getSupportFragmentManager().beginTransaction().replace(R.id.DylanContainer, fragment1).commit();
 
@@ -43,6 +51,7 @@ public class DylanActivity extends AppCompatActivity {
                     getSupportFragmentManager().beginTransaction().replace(R.id.DylanContainer, fragment2).commit();
                     return true;
                 case DylanTab3:
+                    //UpdateTab();
                     getSupportFragmentManager().beginTransaction().replace(R.id.DylanContainer, fragment3).commit();
                     return true;
                 case DylanTab4:
@@ -75,4 +84,10 @@ public class DylanActivity extends AppCompatActivity {
         });
         builder.show();
     }
+    public void UpdateTab() {
+        Edit.findViewById(R.id.DylanTxt);
+        String Txt=et.getText().toString();
+        Edit.setText(Txt);
+    }
+
 }

@@ -11,4 +11,8 @@
     <string name="soa">stay on app?</string>
     <string name="no">no</string>
     <string name="yes">yes</string>
+    <string name="v">Value</string>
+    <string name="pass">123456</string>
+    <string name="first">Dylan</string>
+    <string name="last">Ashton</string>
 </resources>

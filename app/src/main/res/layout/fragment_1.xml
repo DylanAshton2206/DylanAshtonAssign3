@@ -10,7 +10,6 @@
     android:id="@+id/DylanFragment1"
     >
     <TextView
-        android:id="@+id/DylanTxt"
         android:layout_width="match_parent"
         android:layout_height="40dp"
         android:gravity="center"
@@ -28,12 +27,11 @@
         android:maxLength="6" />
 
     <ImageButton
-        android:id="@+id/DylanImagebutton"
+        android:id="@+id/DylanImageButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="100dp"
         android:src="@mipmap/smile_round"
         android:layout_gravity="center"
-        android:backgroundTint="@color/aqua"
-        />
+        android:backgroundTint="@color/aqua" />
 </FrameLayout>
