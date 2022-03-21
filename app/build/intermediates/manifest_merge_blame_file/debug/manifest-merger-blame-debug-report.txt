@@ -12,8 +12,8 @@
 10
 11    <application
 11-->C:\Users\dylin\AndroidStudioProjects\DylanAssign3\app\src\main\AndroidManifest.xml:5:5-21:19
-12        android:allowBackup="true"
-12-->C:\Users\dylin\AndroidStudioProjects\DylanAssign3\app\src\main\AndroidManifest.xml:6:9-35
+12        android:allowBackup="false"
+12-->C:\Users\dylin\AndroidStudioProjects\DylanAssign3\app\src\main\AndroidManifest.xml:6:9-36
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 13-->[androidx.core:core:1.7.0] C:\Users\dylin\.gradle\caches\transforms-3\9339927e08badd09bc5459e4ba900d5f\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 14        android:debuggable="true"

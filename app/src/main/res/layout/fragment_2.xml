@@ -10,6 +10,9 @@
     android:id="@+id/DylanFragment2">
 
     <!-- TODO: Update blank fragment layout -->
-
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="255dp"
+        android:src="@mipmap/doritos" />
 
 </FrameLayout>

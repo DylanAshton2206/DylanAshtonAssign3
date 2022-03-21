@@ -93,7 +93,7 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\dylin\.gradle\cach
 	android:icon
 		ADDED from C:\Users\dylin\AndroidStudioProjects\DylanAssign3\app\src\main\AndroidManifest.xml:7:9-37
 	android:allowBackup
-		ADDED from C:\Users\dylin\AndroidStudioProjects\DylanAssign3\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\dylin\AndroidStudioProjects\DylanAssign3\app\src\main\AndroidManifest.xml:6:9-36
 	android:theme
 		ADDED from C:\Users\dylin\AndroidStudioProjects\DylanAssign3\app\src\main\AndroidManifest.xml:11:9-50
 activity#dylan.ashton.n01442206.a3.DylanActivity

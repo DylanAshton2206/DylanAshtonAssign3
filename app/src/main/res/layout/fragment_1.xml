@@ -9,6 +9,29 @@
     tools:context=".Fragment1"
     android:id="@+id/DylanFragment1"
     >
+    <TextView
+        android:id="@+id/DylanTxt"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:gravity="center"
+        android:text="@string/DA2206" />
 
+    <EditText
+        android:id="@+id/DylanEdit"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="20dp"
+        android:hint="@string/enter_pass"
+        android:inputType="number"
+        android:maxLength="6" />
 
+    <ImageButton
+        android:id="@+id/DylanImagebutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:src="@mipmap/smile_round"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/aqua"
+        />
 </FrameLayout>

@@ -5,4 +5,7 @@
     <string name="two">Two</string>
     <string name="three">Three</string>
     <string name="four">Four</string>
+    <string name="DA2206">Dylan Ashton n01442206</string>
+    <string name="enter_pass">Enter Password</string>
+    <string name="who_is_joe"><strike>Who is joe?</strike></string>
 </resources>

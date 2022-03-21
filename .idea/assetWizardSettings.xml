@@ -37,7 +37,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Users\dylin\Desktop\4.png" />
+                                                <entry key="imagePath" value="C:\Users\dylin\Desktop\new-nacho-cheese.webp" />
                                                 <entry key="opacityPercent" value="60" />
                                                 <entry key="paddingPercent" value="25" />
                                               </map>
@@ -72,7 +72,7 @@
                                   <option name="values">
                                     <map>
                                       <entry key="assetType" value="IMAGE" />
-                                      <entry key="imageAsset" value="C:\Users\dylin\Desktop\4.png" />
+                                      <entry key="imageAsset" value="C:\Users\dylin\Desktop\new-nacho-cheese.webp" />
                                       <entry key="outputName" value="four" />
                                     </map>
                                   </option>
@@ -169,6 +169,18 @@
                                           </PersistentState>
                                         </value>
                                       </entry>
+                                      <entry key="image">
+                                        <value>
+                                          <PersistentState>
+                                            <option name="values">
+                                              <map>
+                                                <entry key="color" value="000000" />
+                                                <entry key="imagePath" value="C:\Users\dylin\Desktop\new-nacho-cheese.webp" />
+                                              </map>
+                                            </option>
+                                          </PersistentState>
+                                        </value>
+                                      </entry>
                                       <entry key="text">
                                         <value>
                                           <PersistentState>
@@ -191,6 +203,13 @@
                                           </PersistentState>
                                         </value>
                                       </entry>
+                                    </map>
+                                  </option>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="assetType" value="IMAGE" />
+                                      <entry key="imageAsset" value="C:\Users\dylin\Desktop\new-nacho-cheese.webp" />
+                                      <entry key="outputName" value="doritos" />
                                     </map>
                                   </option>
                                 </PersistentState>
