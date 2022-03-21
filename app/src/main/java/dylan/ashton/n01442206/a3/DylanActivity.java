@@ -6,9 +6,12 @@ import static dylan.ashton.n01442206.a3.R.id.DylanTab2;
 import static dylan.ashton.n01442206.a3.R.id.DylanTab3;
 import static dylan.ashton.n01442206.a3.R.id.DylanTab4;
 
+import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.DialogInterface;
 import android.os.Bundle;
+import android.view.KeyEvent;
 import android.view.View;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
@@ -55,5 +58,21 @@ public class DylanActivity extends AppCompatActivity {
             //  return false;
 
         });
+    }
+    public void onBackPressed() {
+        AlertDialog.Builder builder = new AlertDialog.Builder(this);
+        builder.setTitle(R.string.DA2206);
+        builder.setMessage(R.string.soa);
+        builder.setPositiveButton(R.string.yes, new DialogInterface.OnClickListener() {
+            public void onClick(DialogInterface dialog, int id) {
+
+            }
+        });
+        builder.setNegativeButton(R.string.no, new DialogInterface.OnClickListener() {
+            public void onClick(DialogInterface dialog, int id) {
+                DylanActivity.super.finish();
+            }
+        });
+        builder.show();
     }
 }

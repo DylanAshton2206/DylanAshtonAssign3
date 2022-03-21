@@ -1,12 +1,14 @@
-dylan/ashton/n01442206/a3/BuildConfig.java
- dylan.ashton.n01442206.a3.BuildConfig
 dylan/ashton/n01442206/a3/Fragment2.java
  dylan.ashton.n01442206.a3.Fragment2
 dylan/ashton/n01442206/a3/Fragment3.java
  dylan.ashton.n01442206.a3.Fragment3
-dylan/ashton/n01442206/a3/DylanActivity.java
- dylan.ashton.n01442206.a3.DylanActivity
-dylan/ashton/n01442206/a3/Fragment4.java
- dylan.ashton.n01442206.a3.Fragment4
 dylan/ashton/n01442206/a3/Fragment1.java
  dylan.ashton.n01442206.a3.Fragment1
+dylan/ashton/n01442206/a3/BuildConfig.java
+ dylan.ashton.n01442206.a3.BuildConfig
+dylan/ashton/n01442206/a3/Fragment4.java
+ dylan.ashton.n01442206.a3.Fragment4
+dylan/ashton/n01442206/a3/DylanActivity.java
+ dylan.ashton.n01442206.a3.DylanActivity
+ dylan.ashton.n01442206.a3.DylanActivity$1
+ dylan.ashton.n01442206.a3.DylanActivity$2
