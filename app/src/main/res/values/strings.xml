@@ -15,4 +15,6 @@
     <string name="pass">123456</string>
     <string name="first">Dylan</string>
     <string name="last">Ashton</string>
+    <string name="button">button</string>
+    <string name="earth_going_around_the_sun">Earth going around the sun</string>
 </resources>

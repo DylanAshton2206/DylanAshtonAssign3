@@ -9,7 +9,6 @@
     android:background="@color/purple"
     android:id="@+id/DylanFragment4">
 
-    <!-- TODO: Update blank fragment layout -->
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -30,5 +29,29 @@
         android:textColor="@color/yellow"
         android:textSize="40sp" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="99dp"
+        android:textSize="33sp"
+        android:text="@string/earth_going_around_the_sun"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/sun"
+        android:layout_gravity="center"
+        android:scaleX="3"
+        android:scaleY="3" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/earth"
+        android:layout_marginTop="200dp"
+        android:layout_marginStart="50dp"
+        android:scaleY="2"
+        android:scaleX="2" />
 
 </FrameLayout>

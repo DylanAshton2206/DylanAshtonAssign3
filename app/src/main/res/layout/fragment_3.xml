@@ -7,9 +7,10 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".Fragment3"
     android:background="@color/yellow"
-    android:id="@+id/DylanFragment3">
+    android:id="@+id/DylanFragment3"
+    tools:ignore="ExtraText">
 
-    <!-- TODO: Update blank fragment layout -->
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -17,7 +18,7 @@
         android:fontFamily="serif"
         android:textStyle="bold|italic"
         android:textColor="@color/purple"
-        android:textSize="50dp">
+        android:textSize="50sp">
     </TextView>
 
     <TextView
@@ -27,5 +28,11 @@
         android:text="@string/pass"
         android:id="@+id/DylanTxt"
         android:fontFamily="sans-serif-black"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:text="@string/button"
+        android:backgroundTint="@color/purple" />
 
 </FrameLayout>
