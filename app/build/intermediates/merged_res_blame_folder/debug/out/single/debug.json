@@ -44,12 +44,12 @@
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-mdpi\\doritos.png"
     },
     {
-        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_smile_foreground.png.flat",
-        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-mdpi\\smile_foreground.png"
-    },
-    {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_two.png.flat",
         "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\drawable-mdpi\\two.png"
+    },
+    {
+        "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_smile_foreground.png.flat",
+        "source": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\src\\main\\res\\mipmap-mdpi\\smile_foreground.png"
     },
     {
         "merged": "C:\\Users\\dylin\\AndroidStudioProjects\\DylanAssign3\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_three.png.flat",
